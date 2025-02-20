@@ -1,0 +1,17 @@
+{
+    "Arena.Component.Namespace": "lzxdeathswap",
+    "FirstTabSetting": 0,
+    "ShortItemSettings": [
+        "resource_pack_zEyHDAB9\\ui",
+        "behavior_pack_WL12LJxV\\Presets",
+        "behavior_pack_WL12LJxV\\Parts",
+        "behavior_pack_WL12LJxV\\BoxData",
+        "resource_pack_zEyHDAB9\\effects",
+        "resource_pack_zEyHDAB9\\models",
+        "resource_pack_zEyHDAB9\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true
+}

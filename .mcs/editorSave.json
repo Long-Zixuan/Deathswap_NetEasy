@@ -1,0 +1,32 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+            {
+                "deathswap(预加载)(空预设)": [
+                    {
+                        "idx": 0,
+                        "子零件文件夹": [
+
+                        ]
+                    }
+                ],
+                "idx": 0
+            }
+        ]
+    },
+    "UI": {
+        "customPrefabGroupExpand": [
+
+        ]
+    }
+}

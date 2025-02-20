@@ -1,0 +1,11 @@
+{
+    "bpType": "DeathswapMainLogicPart",
+    "changes": {},
+    "classType": "PartInstance",
+    "clientPartType": null,
+    "customVariables": [],
+    "directoryPath": "DeathswapMainLogic",
+    "metaType": "DeathswapMainLogicPartMeta",
+    "objId": "5199839d154844968c7a14a53c320bec",
+    "partType": "DeathswapMainLogicPart"
+}

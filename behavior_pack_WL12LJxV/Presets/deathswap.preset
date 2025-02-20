@@ -1,0 +1,35 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "DeathswapMainLogicPart",
+            "changes": {
+                "transform.pos": [
+                    -2.7999980449676514,
+                    0.0,
+                    0.0
+                ]
+            },
+            "classType": "PartInstance",
+            "clientPartType": null,
+            "customVariables": [],
+            "directoryPath": "DeathswapMainLogic",
+            "metaType": "DeathswapMainLogicPartMeta",
+            "objId": "0849caa27ff2486d9734ccae5d68ba6b",
+            "partType": "DeathswapMainLogicPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "dimension": 0,
+    "forceLoad": true,
+    "name": "deathswap",
+    "notifyRemove": true,
+    "objId": "8997b902c28d49b7be469b55e0a8f76c",
+    "preLoad": true,
+    "presetId": "8db0d658-7bc6-4fdf-91f6-99b609ef358a",
+    "presetType": "空预设",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}
